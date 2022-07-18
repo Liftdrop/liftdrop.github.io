@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;500;600;700;800;900&family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
 
 * {
     box-sizing: border-box;
@@ -13,7 +13,7 @@
 
 body {
     color: #002050;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .header {
@@ -28,7 +28,7 @@ body {
 }
 
 html:not([data-scroll="0"]) .header {
-    box-shadow: var(--shadow-medium);
+    box-shadow: #00205006;
 }
 
 .navbar {
