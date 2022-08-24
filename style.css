@@ -201,7 +201,7 @@ footer {
     position: relative;
     height: 100vh;
     background-color: #00205008;
-    padding-inline: 24px;
+    padding-inline: max(9rem, 24px);
 }
 
 .coming-soon-text {
